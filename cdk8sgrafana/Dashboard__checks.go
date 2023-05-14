@@ -1,6 +1,5 @@
 //go:build !no_runtime_type_checking
 
-// Grafana construct for cdk8s.
 package cdk8sgrafana
 
 import (

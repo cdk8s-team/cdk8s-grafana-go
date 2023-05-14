@@ -1,4 +1,3 @@
-// Grafana construct for cdk8s.
 package cdk8sgrafana
 
 
